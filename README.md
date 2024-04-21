@@ -4,7 +4,7 @@ This repository hosts a **word scramble game** using JavaScript, HTML, and CSS. 
 
 ## How to Play
 
-- Visit the game's GitHub Pages site to play online.
+- Visit the game's GitHub Pages site to play online. => [Word Scramble Game](https://omarmosharawi.github.io/wordScramble_JS/)
 - Scrambled words will be presented, and you must guess the correct word before time runs out.
 
 ## Features
